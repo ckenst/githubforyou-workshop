@@ -16,6 +16,9 @@
 - http://h313.info/
   - https://github.com/h313/h313.github.io
 
+- http://olivierlacan.com/
+- http://jonallured.com/
+
 ## Blogs:
 
 - https://github.com/benbalter/benbalter.github.com
