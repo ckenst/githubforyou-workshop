@@ -1,6 +1,6 @@
 # Exercise 2, Branches Galore
 
-This second exercise is the foundation of the git workflow: branch, commit, pull request, merge, deploy. You can do all of this in your existing repository.
+This second exercise is the foundation of the GitHub workflow: branch, commit, pull request, merge, deploy. You can do all of this in your existing repository.
 
 Objectives:
 1. Create a new branch (in your local repository) e.g. `readme-edits`
