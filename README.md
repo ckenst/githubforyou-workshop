@@ -3,6 +3,8 @@
 Contributing to GitHub is for You Workshop
 by [Chris Kenst](http://www.kenst.com)
 
+Presented to the [DAQAA](https://www.daqaa.com/) meet-up on April 11th, 2018.
+
 ## Pre-requisities:
 
 1. Have your own laptop
