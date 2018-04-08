@@ -26,6 +26,9 @@
 - https://www.richgrundy.com/
   - https://github.com/RichGuk/richguk.github.io
 
+- https://github.com/FriendlyTester/friendlytester.github.io
+  - https://github.com/barryclark/jekyll-now
+
 
 ## More examples:
   - https://github.com/jekyll/jekyll/wiki/Sites

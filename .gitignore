@@ -1,0 +1,4 @@
+*.xml
+*.lock
+*.swp
+.DS_Store
