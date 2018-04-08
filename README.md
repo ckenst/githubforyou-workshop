@@ -1,11 +1,7 @@
-# githubforyou-workshop
+# Contributing to GitHub is For You
 
 Contributing to GitHub is for You Workshop
 by [Chris Kenst](http://www.kenst.com)
-
-## Note:
-**A work in progress. Do not fork yet, only star.**
-
 
 ## Pre-requisities:
 
@@ -18,4 +14,4 @@ by [Chris Kenst](http://www.kenst.com)
 
 ## Slides
 
-Put slides in here.
+- Slides link
