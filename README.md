@@ -1,7 +1,7 @@
 # githubforyou-workshop
 
 Contributing to GitHub is for You Workshop
-by [Chris Kenst](www.kenst.com)
+by [Chris Kenst](http://www.kenst.com)
 
 ## Note:
 **A work in progress. Do not fork yet, only star.**
