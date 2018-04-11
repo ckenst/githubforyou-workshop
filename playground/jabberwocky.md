@@ -35,3 +35,7 @@ O frabjous day! Callooh! Callay!”
       Did gyre and gimble in the wabe:
 All mimsy were the borogoves,
       And the mome raths outgrabe.
+	  
+	  
+"I NEED A PIG!"
+"wee baby jabberwocky"
