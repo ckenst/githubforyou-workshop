@@ -5,7 +5,7 @@ by [Chris Kenst](http://www.kenst.com)
 
 Presented to the [DAQAA](https://www.daqaa.com/) meet-up on April 11th, 2018.
 
-## Pre-requisities:
+## Pre-requisites:
 
 1. Have your own laptop
 2. Sign up for your own GitHub account: https://github.com/
