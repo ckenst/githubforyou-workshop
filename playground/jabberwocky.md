@@ -35,3 +35,6 @@ O frabjous day! Callooh! Callay!”
       Did gyre and gimble in the wabe:
 All mimsy were the borogoves,
       And the mome raths outgrabe.
+	  
+	  
+Lewis Carol knew there was some scary stuff out there that no one understands but it's still harmful.  He was woke son!!
