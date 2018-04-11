@@ -37,3 +37,6 @@ All mimsy were the borogoves,
       And the mome raths outgrabe.
 
 Twas a dark and stormy night
+
+"I NEED A PIG!"
+"wee baby jabberwocky"
