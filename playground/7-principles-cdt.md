@@ -9,5 +9,6 @@
 5. The product is a solution. If the problem isn’t solved, the product doesn’t work.
 6. Good software testing is a challenging intellectual process.
 7. Only through judgment and skill, exercised cooperatively throughout the entire project, are we able to do the right things at the right times to effectively test our products.
+8. The answer is 42.
 
 [link](http://context-driven-testing.com)
