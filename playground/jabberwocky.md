@@ -1,4 +1,4 @@
-[Jabberwocky](https://www.poetryfoundation.org/poems/42916/jabberwocky)
+﻿[Jabberwocky](https://www.poetryfoundation.org/poems/42916/jabberwocky)
 BY LEWIS CARROLL
 
 ’Twas brillig, and the slithy toves
@@ -35,7 +35,8 @@ O frabjous day! Callooh! Callay!”
       Did gyre and gimble in the wabe:
 All mimsy were the borogoves,
       And the mome raths outgrabe.
-	  
-	  
+
+Twas a dark and stormy night
+
 "I NEED A PIG!"
 "wee baby jabberwocky"
