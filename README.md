@@ -16,4 +16,4 @@ Presented to the [DAQAA](https://www.daqaa.com/) meet-up on April 11th, 2018.
 
 ## Slides
 
-- Presentation will eventually be made available
+- [Presentation](https://docs.google.com/presentation/d/19TeJeCsANL2O0nGZw-hiqy6mAZYq7eKw0UEIZhezKl4/edit?usp=sharing)
