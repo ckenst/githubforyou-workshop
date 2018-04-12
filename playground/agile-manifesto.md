@@ -11,3 +11,6 @@ We are uncovering better ways of developing software by doing it and helping oth
 That is, while there is value in the items on the right, we value the items on the left more.
 
 [link](http://agilemanifesto.org)
+
+
+I am signing this... Jeremy Sims.
