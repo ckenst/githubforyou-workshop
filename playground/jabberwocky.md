@@ -22,7 +22,7 @@ Came whiffling through the tulgey wood,
       And burbled as it came!
 
 One, two! One, two! And through and through
-      The vorpal blade went snicker-snack!
+      The vorpal blade went SNICKER-SNACK!
 He left it dead, and with its head
       He went galumphing back.
 
