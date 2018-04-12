@@ -1,7 +1,7 @@
 # Contributing to GitHub is For You
 
 Contributing to GitHub is for You Workshop
-by [Chris Kenst](http://www.kenst.com)
+by [Chris Kenst](http://www.kenst.com/about)
 
 Presented to the [DAQAA](https://www.daqaa.com/) meet-up on April 11th, 2018.
 
@@ -21,3 +21,4 @@ Presented to the [DAQAA](https://www.daqaa.com/) meet-up on April 11th, 2018.
 ## Slides
 
 - [Presentation](https://docs.google.com/presentation/d/19TeJeCsANL2O0nGZw-hiqy6mAZYq7eKw0UEIZhezKl4/edit?usp=sharing)
+- My contact information is also in the slides and available [here](http://www.kenst.com/about).
