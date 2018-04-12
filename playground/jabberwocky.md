@@ -1,4 +1,4 @@
-[Jabberwocky](https://www.poetryfoundation.org/poems/42916/jabberwocky)
+﻿[Jabberwocky](https://www.poetryfoundation.org/poems/42916/jabberwocky)
 BY LEWIS CARROLL
 
 ’Twas brillig, and the slithy toves
@@ -22,7 +22,7 @@ Came whiffling through the tulgey wood,
       And burbled as it came!
 
 One, two! One, two! And through and through
-      The vorpal blade went snicker-snack!
+      The vorpal blade went SNICKER-SNACK!
 He left it dead, and with its head
       He went galumphing back.
 
@@ -36,5 +36,9 @@ O frabjous day! Callooh! Callay!”
 All mimsy were the borogoves,
       And the mome raths outgrabe.
 
-
 TESTING 
+
+Twas a dark and stormy night
+
+"I NEED A PIG!"
+"wee baby jabberwocky"
