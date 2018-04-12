@@ -11,3 +11,7 @@
 7. Only through judgment and skill, exercised cooperatively throughout the entire project, are we able to do the right things at the right times to effectively test our products.
 
 [link](http://context-driven-testing.com)
+
+## Maha
+These are seven great principles ***
+

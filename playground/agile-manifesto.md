@@ -4,6 +4,7 @@ We are uncovering better ways of developing software by doing it and helping oth
 
 - Individuals and interactions over processes and tools
 - Working software over comprehensive documentation
+- Having PB&J bar on Thursdays
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
 
