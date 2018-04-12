@@ -19,5 +19,6 @@ Also see [GitHub Page Examples](github-page-examples.md)
 > Many of these projects have labels for first time submitters. Using these labels will get you better responses from the project’s members
 
 - [TestingConferences.org](http://testingconferences.org/) - A simple list of software testing conferences and workshops published collaboratively with the testing community.
+- [Tech Community Slacks](https://github.com/ladyleet/tech-community-slacks) - This is a list of tech community Slack teams, organized by region. If your group has a Slack team, you can add it here.
 - [Wordpress.com Desktop App](https://github.com/Automattic/wp-calypso)
 - Babel, Node / NPM, Rails
